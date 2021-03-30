@@ -1,9 +1,0 @@
-{
-	"authorization": "",
-	"buy_slaves": 1, 
-	"buy_fetters": 0,
-  	"invisible_slaves": 0,
-    "invisible_fetters": 0,
-	"delay": 10,
-	"job": "."
-}
